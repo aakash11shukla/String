@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+  -->
+<resources>
+    <string name="parse_app_id">155d8fc7e06d17cd3337279f4ee8c51269cb17d6</string>
+    <string name="parse_client_key">99fb004f6bcb441fe63382eae5745c740bfed6bb</string>
+
+    <string name="app_name">String</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="welcome_to_string">Welcome to String</string>
+    <string name="login">Login</string>
+    <string name="or_signup">or, Signup</string>
+    <string name="or_login">or, Login</string>
+    <string name="Signup">Signup</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="phone_number">Phone Number</string>
+
+    <string name="logout">Logout</string>
+    <string name="send_a_message">Send a message..</string>
+    <string name="send">Send</string>
+    <string name="prefix_phone">+91</string>
+    <string name="gallery">Gallery</string>
+    <string name="photo">Photo</string>
+    <string name="error_msg_image">Image coudn\'t be loaded</string>
+    <string name="close">Close</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="no_strings_attached">No Strings Attached</string>
+    <string name="set_profile_photo">Set Profile Photo</string>
+    <string name="refresh">refresh</string>
+
+</resources>
